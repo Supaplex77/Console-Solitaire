@@ -1,4 +1,12 @@
-//Student Name : Bilal Enes F*******
+/*
+	This project is written by Bilal Enes Fedar in BLG233E lecture.
+	University: Istanbul Technical University
+	Lecture: BLG233E Data Structures
+	Date: November 8, 2014
+*/
+
+
+//Student Name : Bilal Enes Fedar
 //Student ID : 150120******
 
 
