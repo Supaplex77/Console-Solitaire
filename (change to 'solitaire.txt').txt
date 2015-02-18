@@ -1,0 +1,59 @@
+R D K Up
+R H 3 Up
+R H A Up
+B S A Up
+R H K Up
+R H 8 Up
+B C 3 Up
+R D 6 Up
+R H Q Up
+R H 5 Up
+R H 10 Up
+R D 7 Up
+R D 8 Up
+B C A Up
+R D J Up
+B S 2 Up
+B C J Up
+R D 5 Up
+B S 9 Up
+B S J Up
+B S 7 Up
+B S 10 Up
+B S Q Up
+B S 6 Up
+******
+B C 9 Up
+******
+B C 7 Down
+R D 10 Up
+******
+R H 6 Down
+R H 2 Down
+B C 8 Up
+******
+B C 10 Down
+B C K Down
+R H 7 Down
+B C 2 Up
+******
+R D 9 Down
+B S 3 Down
+R D 3 Down
+R H 4 Down
+R D 4 Up
+******
+R H J Down
+B S 5 Down
+R D 2 Down
+B C 6 Down
+B C 5 Down
+B S 4 Up
+******
+R H 9 Down
+B C 4 Down
+B S 8 Down
+R D Q Down
+B C Q Down
+B S K Down
+R D A Up
